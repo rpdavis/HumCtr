@@ -1,0 +1,26 @@
+/*
+
+ Admin area custom styles
+
+*/
+
+    #acf-field-amount, #acf-field-amount_range{
+      width:60%;
+      
+    }
+    #acf-amount, #acf-amount_range{
+      display:inline-block;
+    }
+     #acf-amount div::before{
+    		 content: "to";
+				font-size: 1.2em;
+				padding-top: .3rem;
+				float: right;
+				margin: 0 2.3rem 0 0;
+				text-align: center;
+    		 
+    		 
+    	
+     
+    }
+  

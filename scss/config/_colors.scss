@@ -1,0 +1,124 @@
+/**
+ * Custom color scheme
+ * ----------------------------------------------------------------------------
+ */
+// ucsd homepage
+// orange #ff8700
+// a #016691
+// body #0b4a67
+// side-bar menu buttons background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.05,#0e618b),color-stop(0.38,#0a618a),color-stop(0.77,#1d749d));
+//color wheel:
+
+//color palid one-----
+// main color is name only 1-4 from lightest to darkest
+$blue: #759EC3; // main primary
+$blue-1:#D6E6F4;
+$blue-2:  #A4C3DF;
+$blue-3: #4D7AA3;
+$blue-4:  #32628C;
+
+$green:  #FFE591; 	/* Main Secondary color (1) */
+$green-1:  #FFF7DD;
+$green-2: #FFEEB7;
+$green-3:#FBD96D;
+$green-4: #D8B543;
+
+$brown: #FFB391;	/* Main Secondary color (2) */
+$brown-1: #FFE7DD;
+$brown-2: #FFCDB7;
+$brown-3:  #FB996D;
+$brown-4: #D87243;
+
+$purple: #8381CC; 	/* Main Secondary color (1) */
+$purple-1: #DBDAF6 ;
+$purple-2: #AEACE4 ;
+$purple-3: #5E5AB0 ;
+$purple-4: #413E97;
+
+$grey-0: #F8F8F8;
+$grey-0b:#F5F5F5;
+//$grey-1:#DADADA;
+$grey-1: #efefef;
+
+$grey-2: #ddd;
+$grey-4: #555;
+$grey-3:#6C6C6C;
+$grey-5: #d2d1d0 ;
+
+$black: #111;
+$white: #fff;
+
+$orange_dk:#C07455;
+
+$pattern-1:  url(http://health-point-wp.webfactoryltd.com/wp-content/themes/health-point/images/backgrounds/net.png) repeat ;
+//---------------------------
+
+//color palid option 2 --------------------
+// $blue-0: #759EC3;
+// $blue-1:#D6E6F4;
+// $blue-2:  #A4C3DF;
+// $blue-3: #4D7AA3;
+// $blue-4:  #32628C;
+//
+// $green-0:  #FFE591; 	/* Main Secondary color (1) */
+// $green-1:  #FFF7DD;
+// $green-2: #FFEEB7;
+// $green-3:#FBD96D;
+// $green-4: #D8B543;
+//
+// $brown-0: #FFB391;	/* Main Secondary color (2) */
+// $brown-1: #FFE7DD;
+// $brown-2: #FFCDB7;
+// $brown-3:  #FB996D;
+// $brown-4: #D87243;
+//
+// $grey-0: #F8F8F8;
+// $grey-1: #efefef;
+// $grey-2: #ddd;
+// $black: #111;
+// $white: #fff;
+//
+// $orange_dk:#C07455;
+
+
+//------------------------
+$link:$blue-3;
+$link-hover:$blue-4;
+$body-color: $grey-0;
+$header-imag-color:$white;
+$header-color:$white;
+$event-body-color:$grey-1;
+$event-head-color:$white;
+$event-border-color:$white;
+$news-head-color:$white;
+$news-body-color:$white;
+
+/********************
+     - Menu -
+*********************/
+$menu-bar-color:$blue;
+$menu-buttons-color:$blue;
+$menu-buttons-hover-color:$blue-4;
+
+// ---dropdown---
+
+$menu-dropdown-hover-bg:#ddd;
+$menu-dropdown-hover-color:$black;
+$menu-buttons-active-color:$white;
+$menu-buttons-dropdown-color:$white;
+
+// ---SUB-MENU---
+
+
+$submenu-buttons-color:$grey-1;
+$submenu-buttons-hover:$grey-1;
+$submenu-buttons-active-hover:$grey-2;
+$submenu-buttons-bar:$submenu-buttons-color;
+
+
+/*************************
+		- footer -
+**************************/
+
+$footer-color:$blue;
+$footer-text-color:#efefef;
